@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: Unlicensed
+// SPDX-License-Identifier: MIT
 
 // Name           : Zorin Finance
 // Symbol         : ZORIN		
