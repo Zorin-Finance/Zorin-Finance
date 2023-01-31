@@ -1,14 +1,14 @@
 // SPDX-License-Identifier: Unlicensed
 
 // Name           : Zorin Finance
-// Symbol         : ZORIN
+// Symbol         : ZORIN		
 // Total Supply   : 20,000,000,000
 // Decimals       : 18
 // Discord        : https://discord.gg/zETFjUETe2
-// Twitter        : https://twitter.com/KuberDeFi
-// Instagram      : https://instagram.com/KuberDeFi
-// Telegram       : https://t.me/KuberDeFi
-// Reddit         : https://www.reddit.com/r/KuberCommunity
+// Twitter        : https://twitter.com/ZorinFinanceLTD
+// Instagram      : https://instagram.com/ZorinFinanceLTD
+// Telegram       : https://t.me/ZorinFinance
+// Reddit         : https://www.reddit.com/r/ZorinFinance
 
 
 pragma solidity ^0.8.4;
@@ -440,7 +440,7 @@ interface IUniswapV2Router02 is IUniswapV2Router01 {
     ) external;
 }
 
-contract KuberDeFi is Context, IERC20, Ownable {
+contract ZorinFinance is Context, IERC20, Ownable {
     using SafeMath for uint256;
     using Address for address;
 
