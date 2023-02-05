@@ -4,9 +4,9 @@
 // Symbol         : ZORIN		
 // Total Supply   : 20,000,000,000
 // Decimals       : 18
-// Discord        : https://discord.gg/zETFjUETe2
-// Twitter        : https://twitter.com/ZorinFinanceLTD
-// Instagram      : https://instagram.com/ZorinFinanceLTD
+// Discord        : https://discord.io/ZorinFinance
+// Twitter        : https://twitter.com/Zorin_Finance
+// Instagram      : https://instagram.com/Zorin_Finance
 // Telegram       : https://t.me/ZorinFinance
 // Reddit         : https://www.reddit.com/r/ZorinFinance
 
